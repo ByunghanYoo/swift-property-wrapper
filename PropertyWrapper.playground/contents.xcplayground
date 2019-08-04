@@ -7,5 +7,6 @@
         <page name='Versioned'/>
         <page name='DelayedInitialization'/>
         <page name='NSCopying'/>
+        <page name='Lazy'/>
     </pages>
 </playground>
