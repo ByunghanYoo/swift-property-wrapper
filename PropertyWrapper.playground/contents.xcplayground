@@ -6,5 +6,6 @@
         <page name='CaseInsensitive'/>
         <page name='Versioned'/>
         <page name='DelayedInitialization'/>
+        <page name='NSCopying'/>
     </pages>
 </playground>
